@@ -29,3 +29,14 @@ If you’re into tech, AI, or just want to collaborate on something cool, I’m 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Meghana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeghanaChoudhary&show_icons=true&theme=radical&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaChoudhary&layout=compact&theme=radical)
+
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/meghana-choudhary)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&style=flat-square)](https://www.kaggle.com/meghanachoudhary)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?style=flat-square)](#)
